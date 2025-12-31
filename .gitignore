@@ -1,0 +1,11 @@
+
+# Ejecutable (no subir)
+Tarea2_SO
+
+# Archivos de salida (no subir)
+indice.txt
+indice_prueba.txt
+
+# Archivos de compilación
+*.o
+*.out
